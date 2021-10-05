@@ -17,8 +17,35 @@ input, button, textarea, select { font: inherit }
 /* Mobiles */
 @media (max-width: 767px) { body { padding: 12% 8% } }
 
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 60px;
+    padding-bottom:35px;
+}
+
+h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    letter-spacing: -1px;
+    color: blue;
+}
+h3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    letter-spacing: -1px;
+    padding-bottom: 50px;
+}
+
+p{
+    padding-top: 10px;
+    text-align:center;
+}
+
 img{
     box-shadow:8px 10px 8px #888;
-    max-width: 100%;
-    height:auto;    
+    max-width: 50%;
+    height:auto; 
+       
 }
