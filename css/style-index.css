@@ -47,5 +47,6 @@ img{
     box-shadow:8px 10px 8px #888;
     max-width: 50%;
     height:auto; 
-       
+    margin:auto;  
+    margin-top:50px; 
 }
