@@ -21,6 +21,14 @@ body{
     background-color:darkslategrey ;
 }
 
+#intro
+{
+    font-size: 45px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: -1px;
+
+}
+
 a
 {
     color:salmon;
@@ -31,7 +39,7 @@ h1{
     text-align: center;
     letter-spacing: 10px;
     font-size: 60px;
-    padding-bottom:35px;
+    
 }
 
 h2{
@@ -39,12 +47,13 @@ h2{
     text-align: center;
     letter-spacing: -1px;
     color: salmon;
+    padding-bottom:40px;
 }
 h3{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
     letter-spacing: -1px;
-    padding-bottom: 50px;
+    padding-top: 50px;
 }
 
 p{
@@ -53,7 +62,7 @@ p{
 }
 
 img{
-    box-shadow:8px 10px 8px #888;
+
     max-width: 50%;
     height:auto; 
     margin:auto;  
